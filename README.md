@@ -1,1 +1,1 @@
-# LinearRegressionProject
+# Linear Regression Project
